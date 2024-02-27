@@ -1,7 +1,7 @@
 # Advanced programming topics
 ## JavaScript programming exercises
 
-In this topic repository you will find three folders with the following names:
+In this topicos repository you will find three folders with the following names:
 
 * script1
 * script2
