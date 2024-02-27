@@ -1,14 +1,14 @@
-# Topicos Avanzados de programacion
-## Ejercicios de programacion en JavaScript
+# Advanced programming topics
+## JavaScript programming exercises
 
-En este repositorio de topicos encontraras tres carpetas con los siguientes nombres:
+In this topic repository you will find three folders with the following names:
 
 * script1
 * script2
 * script3
 
 
-Las cuales cuentan con un archivo .js, un archivo .html y su respectivo README (instrucciones).
+Which have a .js file, a .html file and their respective README (instructions).
 
 
 
