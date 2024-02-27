@@ -3,7 +3,7 @@
 
 In this folder you will find two files:
 
-* index.html:
+* index1.html:
 
 The functionality of this file is to create a web page where the JavaScript file can be viewed.
 
